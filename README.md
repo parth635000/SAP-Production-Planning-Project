@@ -167,12 +167,8 @@ MRP Run
 
 ##  Author
 
-**Atul Aaditya**
-Roll No: 2305369
-SAP PP – Production Order Management | Project Report
+**PARTH PATEL**
+Roll No: 2305062
+SAP PP – Production Order Management Report
 
 ---
-
-##  License
-
-This project is submitted as academic coursework. All SAP-related terminology, transaction codes, and process flows are referenced for educational purposes.
